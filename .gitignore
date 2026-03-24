@@ -1,0 +1,6 @@
+DS_Store
+Thumbs.db
+# Fichiers de log
+*.log
+# Dependances
+node_modules/
